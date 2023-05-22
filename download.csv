@@ -1,0 +1,12 @@
+# ----------------------------------------
+# bright - GA4
+# 1st exploration-User explorer 1
+# 20230515-20230521
+# ----------------------------------------
+
+App-instance ID,Stream name,Namespace ID,Event count,Sessions,Purchase revenue,Transactions,Conversions,Total users
+,,,48,5,0,0,0,3,Grand total
+729222800.1684694001,brightgthb - GA4,ANONYMOUS,42,3,0,0,0,1
+396843460.1684693452,brightgthb - GA4,ANONYMOUS,3,1,0,0,0,1
+738289922.1684694022,brightgthb - GA4,ANONYMOUS,3,1,0,0,0,1
+

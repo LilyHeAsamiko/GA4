@@ -1,0 +1,209 @@
+# ----------------------------------------
+# Report CSV Export
+# Account: brightsitetest
+# Property: bright - GA4
+# ----------------------------------------
+#  
+# Start date: 20230424
+# End date: 20230521
+Nth day,Users
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,1
+
+# Start date: 20230424
+# End date: 20230521
+Nth day,New users
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,2
+
+# Start date: 20230424
+# End date: 20230521
+Nth day,Average engagement time
+0000,0
+0001,0
+0002,0
+0003,0
+0004,0
+0005,0
+0006,0
+0007,0
+0008,0
+0009,0
+0010,0
+0011,0
+0012,0
+0013,0
+0014,0
+0015,0
+0016,0
+0017,0
+0018,0
+0019,0
+0020,0
+0021,0
+0022,0
+0023,0
+0024,0
+0025,0
+0026,0
+0027,135
+
+# Start date: 20230424
+# End date: 20230521
+Nth day,Total revenue
+
+
+# Where do your new users come from?
+# Start date: 20230424
+# End date: 20230521
+First user default channel group,New users
+Direct,1
+Organic Search,1
+
+#  
+# Start date: 20230424
+# End date: 20230521
+Session default channel group,Sessions
+Direct,3
+Unassigned,2
+Organic Search,1
+
+#  
+# Start date: 20230424
+# End date: 20230521
+Country ID,Users
+BA,1
+
+# Start date: 20230424
+# End date: 20230521
+Country,Users
+Bosnia & Herzegovina,1
+
+# How are active users trending?
+# Start date: 20230424
+# End date: 20230521
+Nth day,30 days,7 days,1 day
+0000,0,0,0
+0001,0,0,0
+0002,0,0,0
+0003,0,0,0
+0004,0,0,0
+0005,0,0,0
+0006,0,0,0
+0007,0,0,0
+0008,0,0,0
+0009,0,0,0
+0010,0,0,0
+0011,0,0,0
+0012,0,0,0
+0013,0,0,0
+0014,0,0,0
+0015,0,0,0
+0016,0,0,0
+0017,0,0,0
+0018,0,0,0
+0019,0,0,0
+0020,0,0,0
+0021,0,0,0
+0022,0,0,0
+0023,0,0,0
+0024,0,0,0
+0025,0,0,0
+0026,0,0,0
+0027,1,1,1
+
+# How well do you retain your users?
+# Start date: 20230409
+# End date: 20230520
+Date,Week 0,Week 1,Week 2,Week 3,Week 4,Week 5
+Apr 9 - Apr 15,0,0,0,0,0,0
+Apr 16 - Apr 22,0,0,0,0,0,-1
+Apr 23 - Apr 29,0,0,0,0,-1,-1
+Apr 30 - May 6,0,0,0,-1,-1,-1
+May 7 - May 13,0,0,-1,-1,-1,-1
+May 14 - May 20,0,-1,-1,-1,-1,-1
+
+#  
+# Start date: 20230424
+# End date: 20230521
+Page title and screen class,Views
+Welcome,15
+
+#  
+# Start date: 20230424
+# End date: 20230521
+Event name,Event count
+page_view,15
+scroll,14
+user_engagement,12
+session_start,4
+first_visit,2
+
+# What are your top conversions?
+# Start date: 20230424
+# End date: 20230521
+Event name,Conversions
+
+
+#  
+# Start date: 20230424
+# End date: 20230521
+Item name,Items purchased
+
+
+# How does activity on your platforms compare?
+# Start date: 20230424
+# End date: 20230521
+Platform,Conversions

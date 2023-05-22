@@ -1,0 +1,4 @@
+Data Streams
+Audiences  group, replace segments in original property
+Conversions  event that is valuable to business(similar to goals in original property)
+Data settings. Product links, can be linked to Google ads to use conversions and audiences for bidding, and to measure the effectiveness of your campaigns.(You can also manage your Firebase link for app measurement).
